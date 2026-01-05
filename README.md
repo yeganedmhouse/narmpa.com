@@ -1,5 +1,4 @@
 # narmpa.com
-نرم پا، فروشگاه صندل معتبر با امکان خرید حضوری و آنلاین با ارسال به اقصی نقاط کشور
-https://narmpa.com/
+Narm Pa, a trusted sandal store offering both in-store and online shopping, with delivery available to all corners of the country.https://narmpa.com/
 
 
